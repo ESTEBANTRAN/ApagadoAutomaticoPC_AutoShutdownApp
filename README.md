@@ -103,12 +103,6 @@ Para crear un ejecutable autónomo (por ejemplo, .exe para Windows):
 
     El ejecutable se generará en la carpeta dist.
 
-Cómo usar este README:
 
-    Copia todo el texto de arriba.
-    Abre un editor de texto (como el Bloc de notas en Windows, VS Code, Sublime Text, etc.).
-    Pega el texto.
-    Guarda el archivo en la misma carpeta donde tienes python_apagar_pc.pyw y icon.ico.
-    Nombra el archivo exactamente: README.md
 
 
